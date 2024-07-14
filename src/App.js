@@ -8,7 +8,7 @@ function App() {
         <img src={logo} className="App-logo" alt="logo" />
         <p>
          <button>Save To Spotify</button>
-         <button>Search</button>
+         
         </p>
   
       </header>
