@@ -1,5 +1,5 @@
 import React, { useState } from 'react';
-import styles from './Playlist.module.css'
+import styles from './Playlist.module.css';
 
 function Playlist () {
     const [playlist, setPlaylist] = useState([]);
